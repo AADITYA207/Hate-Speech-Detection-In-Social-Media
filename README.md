@@ -10,8 +10,7 @@ The task is to classify the tweets as HOF{Hate-Offensive tweets) or NOT{Not-Hate
  ![](ppt/6.jpg)
  ![](ppt/7.jpg)
  ![](ppt/8.jpg)
- ![](pics/9.jpg)
- ![](pics/10.jpg)
- ![](pics/11.jpg)
- ![](pics/12.jpg)
+ ![](ppt/9.jpg)
+ ![](ppt/10.jpg)
+ ![](ppt/11.jpg)
 
